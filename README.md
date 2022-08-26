@@ -66,5 +66,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## How to Run 
+- git clone https://github.com/zonggonau/portalberita.git or git clone git@github.com:zonggonau/portalberita.git
 - php artisan serve
 - npm run dev or yarn run dev
